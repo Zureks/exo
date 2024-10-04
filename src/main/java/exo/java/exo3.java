@@ -7,6 +7,7 @@ public class exo3 {
     public static void main(String[] args){
 
         Scanner clavier = new Scanner(System.in);
+        
 
         System.out.println("devinez le nombre");
         int nombre = clavier.nextInt();
